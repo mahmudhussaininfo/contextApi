@@ -1,0 +1,11 @@
+.users {
+  display: flex;
+  gap: 10px;
+  width: 30%;
+  margin-top: 50px;
+}
+.user {
+  background-color: blue;
+  padding: 15px;
+  color: #fff;
+}
